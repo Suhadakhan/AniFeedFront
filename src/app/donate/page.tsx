@@ -90,7 +90,7 @@ const Page: React.FC = () => {
           </div>
           <button
             type="submit"
-            disabled={isSubmitting || donationAmount <= 0 || donationAmount === ""}
+            disabled={isSubmitting || Number(donationAmount) <= 0 || donationAmount === ""}
             className={`w-full py-3 text-white font-semibold rounded-lg ${
               isSubmitting
                 ? "bg-gray-400 cursor-not-allowed"
