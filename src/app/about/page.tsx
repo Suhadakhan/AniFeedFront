@@ -24,7 +24,7 @@ const Page: React.FC = () => {
         <div id="important-note" className="important-note bg-red-100 p-6 rounded-lg mb-8">
           <h2 className="text-2xl font-bold text-center text-red-600 mb-4">Important Note</h2>
           <p className="text-lg text-gray-700 text-center">
-            We want to clarify that <strong>anifeed</strong> is a personal project created by me, Sanjay Verma, for practice in web development. This website is not affiliated with any organization or community; it is simply an initiative to help needy street animals while I learn and grow in my skills.
+            We want to clarify that <strong>anifeed</strong> is a personal project created by me, Suhada Khan, for practice in web development. This website is not affiliated with any organization or community; it is simply an initiative to help needy street animals while I learn and grow in my skills.
           </p>
           <p className="text-lg text-gray-700 text-center">
             The donations collected through this platform are solely for purchasing food to feed these animals. If you are unable to feed them directly due to time constraints, your contributions will allow me to do so on your behalf.
